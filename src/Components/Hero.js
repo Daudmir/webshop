@@ -13,7 +13,7 @@ const Hero = () => {
       <div className="relative container mx-auto h-screen flex items-center justify-center">
         <div className="text-center text-white">
           <h1 className="text-4xl font-extrabold sm:text-5xl md:text-6xl">Level Up Your Gaming Experience</h1>
-          <p className="text-lg mt-4 px-96">
+          <p className="text-lg mt-4 px-96 sm:px-0">
             Explore our wide range of gaming accessories and take your gaming sessions to the next level. From high-performance
             keyboards and precision mice to immersive headsets and stylish gaming chairs, we have everything you need to enhance
             your gaming setup.
